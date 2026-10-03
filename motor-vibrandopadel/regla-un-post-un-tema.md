@@ -21,16 +21,19 @@ Antes de redactar, el motor clasifica cada hecho del día en **NOTICIA** o
 
 Los criterios valen igual para el cuadro masculino y para el femenino.
 
-1. **Eliminación de una de las 4 primeras parejas**: cae una cabeza de serie
-   1, 2, 3 o 4.
-2. **Resultado ajustado**: el partido va a tres sets y el tercero termina
-   6-4, 7-5 o 7-6. Un tercer set de 6-3 o más amplio no cuenta.
+1. **Eliminación de cualquier cabeza de serie**, sea la 1 o la 8. Si cae una
+   de las 4 primeras, es el notición del día: sale la primera y con el gancho
+   más fuerte.
+2. **Resultado ajustado de una cabeza de serie**: el partido va a tres sets,
+   el tercero termina 6-4, 7-5 o 7-6 y al menos una de las dos parejas es
+   cabeza de serie. Cuanto más alta la cabeza de serie, más fuerte el gancho
+   ("Coello y Tapia, a un punto de caer"). Si ninguna de las dos parejas es
+   cabeza de serie, el partido va al post de resultados aunque sea ajustado.
 3. **Lesión**: hay una retirada, un walkover por lesión o un jugador o una
    jugadora que se lesiona durante el partido, en cualquier ronda del cuadro
    final.
 
-Todo lo que no cumpla ninguno de estos criterios es RESULTADO, aunque sea una
-sorpresa (por ejemplo, que caiga la cabeza de serie 7).
+Todo lo que no cumpla ninguno de estos criterios es RESULTADO.
 
 **No hay tope de posts.** Si en una jornada hay 5 noticias, se hacen 5 posts
 de noticia más el de resultados.
