@@ -14,24 +14,30 @@ hasta las 23:13, cuando terminaba el último partido.
 
 ## La regla
 
-Antes de redactar, el motor clasifica cada hecho del día en **HISTORIA** o
-**RESULTADO**.
+Antes de redactar, el motor clasifica cada hecho del día en **NOTICIA** o
+**RESULTADO**. Solo es noticia lo importante; todo lo demás es resultado.
 
-### Es HISTORIA (y lleva post propio) si cumple al menos uno de estos criterios
+### Es NOTICIA (y lleva post propio) si cumple al menos uno de estos criterios
 
-1. Cae una pareja cabeza de serie 1 o 2, masculina o femenina.
-2. Cae una cabeza de serie contra una pareja no cabeza de serie o de la previa.
-3. Hay una retirada o lesión de un jugador o jugadora top 10.
-4. Hay un título, una racha o un récord: primera final, X semanas seguidas
-   ganando o un debut.
-5. Hay un partido con dato excepcional: remontada desde 0-5, un tie-break
-   larguísimo o más de 3 horas de juego.
+Los criterios valen igual para el cuadro masculino y para el femenino.
 
-Todo lo que no cumpla ninguno de esos criterios es RESULTADO.
+1. **Eliminación de una de las 4 primeras parejas**: cae una cabeza de serie
+   1, 2, 3 o 4.
+2. **Resultado ajustado**: el partido se decide en el tercer set por 7-5
+   o 7-6.
+3. **Lesión**: hay una retirada, un walkover por lesión o un jugador o una
+   jugadora que se lesiona durante el partido, en cualquier ronda del cuadro
+   final.
+
+Todo lo que no cumpla ninguno de estos criterios es RESULTADO, aunque sea una
+sorpresa (por ejemplo, que caiga la cabeza de serie 7).
+
+**No hay tope de posts.** Si en una jornada hay 5 noticias, se hacen 5 posts
+de noticia más el de resultados.
 
 ### Cómo se monta cada tipo
 
-**Post de HISTORIA**
+**Post de NOTICIA**
 - Trata un solo tema. El gancho va en la primera línea y no puede ser el
   nombre del torneo.
 - Lleva como máximo 900 caracteres de copy.
@@ -39,31 +45,23 @@ Todo lo que no cumpla ninguno de esos criterios es RESULTADO.
   jornada.
 - Si el motor solo tiene una fuente (por ejemplo, el marcador en vivo), lo
   indica en el resumen para Marta.
+- Si un mismo partido cumple varios criterios (por ejemplo, la cabeza de serie
+  2 cae 7-6 en el tercero), se hace un solo post de noticia, no uno por
+  criterio.
 
 **Post de RESULTADOS**
-- Recoge el resto de la jornada y se publica cuando termina.
-- Las historias que ya tienen post propio se reducen a una línea neutra con el
+- Recoge el resto de la jornada de los dos cuadros y se publica cuando
+  termina.
+- Las noticias que ya tienen post propio se reducen a una línea neutra con el
   marcador, sin repetir el relato. Por ejemplo: `🎾 (2) Galán y Chingotto caen
   ante X: 6-4, 6-3`.
 - Lleva como máximo 1.500 caracteres. Si no cabe, el contenido va en
   carrusel (una lámina por cuadro) y el copy se queda corto.
 
-### Límites para no saturar
-
-- Se publican como máximo **3 posts al día**: 2 de historia y 1 de resultados.
-- Si hay más de 2 historias, se eligen por orden de criterio (el 1 pesa más
-  que el 5) y el resto baja al post de resultados.
-- Dos posts de historia del mismo día deben separarse al menos 2 horas.
-
-### Masculino y femenino
-
-> PENDIENTE DE DECIDIR (ver la pregunta a Marta). Hasta entonces se aplica:
-> las historias del cuadro femenino siguen los mismos criterios que las del
-> masculino y llevan post propio. Los resultados de los dos cuadros van en el
-> mismo post.
-
 ## Comprobación antes de dejar el borrador en Postiz
 
+- [ ] ¿El post de noticia cumple alguno de los 3 criterios? Si no, va en
+      resultados.
 - [ ] ¿Se puede resumir el post en una frase sin usar "y"? Si no, hay que
       partirlo.
 - [ ] ¿La primera línea funcionaría sola como titular?
