@@ -27,7 +27,7 @@ Los criterios valen igual para el cuadro masculino y para el femenino.
 2. **Resultado ajustado de una cabeza de serie**: el partido va a tres sets,
    el tercero termina 6-4, 7-5 o 7-6 y al menos una de las dos parejas es
    cabeza de serie. Cuanto más alta la cabeza de serie, más fuerte el gancho
-   ("Coello y Tapia, a un punto de caer"). Si ninguna de las dos parejas es
+   ("Coello y Tapia sufren para pasar: 6-4 en el tercero"; no se inventan bolas de partido si el marcador no las da). Si ninguna de las dos parejas es
    cabeza de serie, el partido va al post de resultados aunque sea ajustado.
 3. **Lesión**: hay una retirada, un walkover por lesión o un jugador o una
    jugadora que se lesiona durante el partido, en cualquier ronda del cuadro
