@@ -23,8 +23,8 @@ Los criterios valen igual para el cuadro masculino y para el femenino.
 
 1. **Eliminación de una de las 4 primeras parejas**: cae una cabeza de serie
    1, 2, 3 o 4.
-2. **Resultado ajustado**: el partido se decide en el tercer set por 7-5
-   o 7-6.
+2. **Resultado ajustado**: el partido va a tres sets y el tercero termina
+   6-4, 7-5 o 7-6. Un tercer set de 6-3 o más amplio no cuenta.
 3. **Lesión**: hay una retirada, un walkover por lesión o un jugador o una
    jugadora que se lesiona durante el partido, en cualquier ronda del cuadro
    final.
